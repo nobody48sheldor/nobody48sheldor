@@ -26,7 +26,7 @@ I m still beginner btw
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nobody48sheldor&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### WHERE TO FIND ME:
+## WHERE TO FIND ME:
 
  - twitter : [@arnaud_astro](https://twitter.com/arnaud_astro)
  - youtube : [science
