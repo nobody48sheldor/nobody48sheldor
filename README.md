@@ -25,7 +25,10 @@ I m still beginner btw
 ### WHERE TO FIND ME:
 
 -twitter : [@arnaud_astro](https://twitter.com/arnaud_astro)
+
 -youtube : [science club](https://www.youtube.com/channel/UCCo4jh3XOCvjiZO9SeZMz7g)
+
 -discord : n0b0dy#0487  and n0b0dy#2834
+
 
 and also there are good odds that you can find me in front of my PCs
