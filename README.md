@@ -12,8 +12,11 @@ you can find the repositories related to thoses projects in my pinned repositori
 ### my programming skill so far:
 
 -python    🟩🟩🟩🟩⬛️
+
 -HTML, CSS 🟩🟩🟩⬛️⬛️
+
 -LaTeX     🟩🟩🟩⬛️⬛️
+
 -C++       🟩⬛️⬛️⬛️⬛️
 
 I m still beginner 
