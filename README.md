@@ -19,8 +19,9 @@ you can find the repositories related to thoses projects in my pinned repositori
 I m still beginner btw
 
 
-![](https://github-readme-stats.vercel.app/api?username=nobody48sheldor&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+![nobody48sheldor](https://github-readme-stats.vercel.app/api?username=nobody48sheldor&theme=dark&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nobody48sheldor&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### WHERE TO FIND ME:
 
