@@ -17,7 +17,7 @@ you can find the repositories related to those projects in my pinned repositorie
 	-python    🟩🟩🟩🟩⬛️	
 	-HTML, CSS 🟩🟩🟩⬛️⬛️
 	-LaTeX 	   🟩🟩🟩⬛️⬛️ 
-	-C++       🟩⬛️⬛️⬛️⬛️
+	-C++       🟩🟩⬛️⬛️⬛️
 
 I m still beginner btw
 
