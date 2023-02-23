@@ -5,12 +5,9 @@
 
 ## who am I ?
 
-I m a french highschool student, I like maths ➗, physics ☢️, programmation 👨‍💻 (even if I only started 2 years ago), and "hacking" 👾(CTFs), even though I am still a beginner.
+I m a french "prepa" at Louis-Pasteur - Neuilly, I like maths ➗, physics ☢️, programmation 👨‍💻 (even if I only started 3 years ago)
 
-
-I have started several projects like my rocket 🚀, or maybe my future attempt for the BL4S competition organized by CERN for highschool student
-you can find the repositories related to those projects in my pinned repositories
-
+Linux enthusiast, I like to numerically solve physics phenomenon
 
 ## my programming skills so far:
 
@@ -29,6 +26,5 @@ I m still beginner btw
 ## WHERE TO FIND ME:
 
  - twitter : [@arnaud_astro](https://twitter.com/arnaud_astro)
- - youtube : [science
-   club](https://www.youtube.com/channel/UCCo4jh3XOCvjiZO9SeZMz7g)
+ - youtube : [Arnaud Lelièvre](https://www.youtube.com/channel/UC5hh2FhFfBf05rj3RZtki1g)
  - discord : n0b0dy#0487  and n0b0dy#2834
