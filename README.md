@@ -15,7 +15,7 @@ you can find the repositories related to those projects in my pinned repositorie
 ## my programming skills so far:
 
 	-python    🟩🟩🟩🟩⬛️	
-	-HTML, CSS 🟩🟩🟩⬛️⬛️
+	-HTML, CSS 🟩🟩⬛️⬛️⬛️
 	-LaTeX 	   🟩🟩🟩⬛️⬛️ 
 	-C++       🟩🟩🟩⬛️⬛️
 
