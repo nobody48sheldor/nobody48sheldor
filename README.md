@@ -5,7 +5,7 @@
 
 ## who am I ?
 
-I m a french highschool student, I like maths ➗, physics ☢️, programmation 👨‍💻 (even if I only started 2 years ago), and "hacking" 👾(CTFs), even though I am still a beginner (but not a script kiddy (I think)).
+I m a french highschool student, I like maths ➗, physics ☢️, programmation 👨‍💻 (even if I only started 2 years ago), and "hacking" 👾(CTFs), even though I am still a beginner.
 
 
 I have started several projects like my rocket 🚀, or maybe my future attempt for the BL4S competition organized by CERN for highschool student
@@ -32,7 +32,3 @@ I m still beginner btw
  - youtube : [science
    club](https://www.youtube.com/channel/UCCo4jh3XOCvjiZO9SeZMz7g)
  - discord : n0b0dy#0487  and n0b0dy#2834
-
-and also there are good odds that you can find me in front of my PCs
-
-
