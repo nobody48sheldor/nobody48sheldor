@@ -5,7 +5,7 @@
 
 ## who am I ?
 
-I m a french "prepa" at Louis-Pasteur - Neuilly, I like maths ➗, physics ☢️, programmation 👨‍💻 (even if I only started 3 years ago)
+MPSI1 -> MP at Pasteur - Neuilly, I like maths ➗, physics ☢️, programmation 👨‍💻
 
 Linux enthusiast, I like to numerically solve physics phenomenon
 
@@ -16,7 +16,7 @@ Linux enthusiast, I like to numerically solve physics phenomenon
 	-LaTeX 	   🟩🟩🟩🟩⬛️ 
 	-C++            🟩🟩🟩⬛️⬛️
 
-I m still beginner btw
+I m still a beginner btw
 
 
 ![nobody48sheldor](https://github-readme-stats.vercel.app/api?username=nobody48sheldor&theme=dark&show_icons=true)
