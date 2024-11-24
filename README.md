@@ -13,7 +13,7 @@ Linux enthusiast, I like to numerically solve physics phenomenon
 
 	-python         🟩🟩🟩🟩⬛️	
 	-HTML, CSS      🟩🟩⬛️⬛️⬛️
-	-LaTeX 	   🟩🟩🟩🟩⬛️ 
+	-LaTeX 	   	🟩🟩🟩🟩⬛️ 
 	-C++            🟩🟩🟩⬛️⬛️
 
 I m still a beginner btw
