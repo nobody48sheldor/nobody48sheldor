@@ -11,10 +11,11 @@ Linux enthusiast, I like to numerically solve physics phenomenon
 
 ## my programming skills so far:
 
-	-python         🟩🟩🟩🟩⬛️	
-	-HTML, CSS      🟩🟩⬛️⬛️⬛️
-	-LaTeX 	   	🟩🟩🟩🟩⬛️ 
-	-C++            🟩🟩🟩⬛️⬛️
+	- Python        🟩🟩🟩🟩⬛️
+ 	- C++           🟩🟩🟩⬛️⬛️
+  	- Bash		🟩🟩🟩⬛️⬛️
+	- HTML, CSS     🟩🟩⬛️⬛️⬛️
+	- LaTeX 	🟩🟩⬛️⬛️⬛️ 
 
 I m still a beginner btw
 
