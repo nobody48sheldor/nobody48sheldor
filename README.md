@@ -5,11 +5,11 @@
 
 ## who am I ?
 
-MPSI1 -> MP at Pasteur - Neuilly, I like maths ➗, physics ☢️, programmation 👨‍💻
+MPSI1 -> MP at Pasteur - Neuilly -> MP1 at janson - Paris, I like maths ➗, physics ☢️, programming 👨‍💻
 
-Linux enthusiast, I like to numerically solve physics phenomenon
+Linux enthusiast 🐧, huge fan of Vim ⌨️
 
-## my programming skills so far:
+## How I would rate myself :
 
 	- Python        🟩🟩🟩🟩⬛️
  	- C++           🟩🟩🟩⬛️⬛️
@@ -26,4 +26,4 @@ Linux enthusiast, I like to numerically solve physics phenomenon
 
  - twitter : [@arnaud_astro](https://twitter.com/arnaud_astro)
  - youtube : [Arnaud Lelièvre](https://www.youtube.com/channel/UC5hh2FhFfBf05rj3RZtki1g)
- - discord : n0b0dy#0487  and n0b0dy#2834
+ - discord : n0b0dy48
