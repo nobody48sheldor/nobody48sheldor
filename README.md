@@ -17,8 +17,6 @@ Linux enthusiast, I like to numerically solve physics phenomenon
 	- HTML, CSS     🟩🟩⬛️⬛️⬛️
 	- LaTeX 	🟩🟩⬛️⬛️⬛️ 
 
-I m still a beginner btw
-
 
 ![nobody48sheldor](https://github-readme-stats.vercel.app/api?username=nobody48sheldor&theme=dark&show_icons=true)
 
