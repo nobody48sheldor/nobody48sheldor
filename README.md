@@ -1,22 +1,35 @@
 # HELLO THERE 👋
 
-![](https://cdn.discordapp.com/attachments/748653688515592332/817336205108183060/hello_there.gif)
+![](https://i.giphy.com/xTiIzJSKB4l7xTouE8.webp)
 
 
-## who am I ?
+## `~ $ whoami` ?
 
-MPSI1 -> MP at Pasteur - Neuilly -> MP1 at janson - Paris, I like maths ➗, physics ☢️, programming 👨‍💻
+```
+	~ $ Prepa :
+		MPSI1 -> MP at Louis-Pasteur in Neuilly-Sur-Seine 	[2022-2024]
+		MP1 (5/2) at Janson-de-Sailly in Paris		  	[2024-2025]
 
-Linux enthusiast 🐧, huge fan of Vim ⌨️
+	~ $ Interesets :
+		I like Physics ☢️, programming 👨‍💻, Maths ➗
+		I am a Linux enthusiast 🐧, huge fan of Vim ⌨️
+```
 
-## How I would rate myself :
+## `~ $ kitten ican MySkills_*.ico`
 
-	- Python        🟩🟩🟩🟩⬛️
- 	- C++           🟩🟩🟩⬛️⬛️
-  	- Bash		🟩🟩🟩⬛️⬛️
-	- HTML, CSS     🟩🟩⬛️⬛️⬛️
-	- LaTeX 	🟩🟩⬛️⬛️⬛️ 
+[![My Skills](https://skillicons.dev/icons?i=py,vim,arch,cpp,latex)](https://skillicons.dev)
 
+## `~ $ echo $How_I_Rate_Myself`
+
+```
+	~ $ How I rate myself :
+ 
+		- Python        🟩🟩🟩🟩⬛️
+ 		- C++           🟩🟩🟩⬛️⬛️
+  		- Bash		🟩🟩🟩⬛️⬛️
+		- HTML, CSS     🟩🟩⬛️⬛️⬛️
+		- LaTeX 	🟩🟩⬛️⬛️⬛️ 
+```
 
 ![nobody48sheldor](https://github-readme-stats.vercel.app/api?username=nobody48sheldor&theme=dark&show_icons=true)
 
