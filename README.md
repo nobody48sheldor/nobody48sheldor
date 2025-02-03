@@ -15,7 +15,7 @@
 		I am a Linux enthusiast 🐧, huge fan of Vim ⌨️
 ```
 
-## `~ $ kitten ican MySkills_*.ico`
+## `~ $ kitten icat MySkills_*.ico`
 
 [![My Skills](https://skillicons.dev/icons?i=py,vim,arch,cpp,latex)](https://skillicons.dev)
 
